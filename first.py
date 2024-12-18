@@ -5,3 +5,4 @@ a = 2
 print(a**a)
 
 print("b")
+print("Hello world")
